@@ -2,7 +2,7 @@
 Start: 9 June
 
 ## Mathematics: 
-### Linear Algebra: 4 days
+### Linear Algebra: 14 days
 by Sheldon Axler : https://www.youtube.com/channel/UCtHp0WNe3OaSXAr1C_Oi0AQ/playlists
 
 ### Calculus : 2 weeks
