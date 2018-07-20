@@ -1,5 +1,5 @@
 # ml_curriculum
-Start: 9 June
+Start: Aug 1
 
 ## Mathematics: 
 ### Linear Algebra: 14 days
