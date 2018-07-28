@@ -3,7 +3,7 @@ Start: Aug 1
 
 ## Mathematics: 
 ### Linear Algebra: 14 days
-by Sheldon Axler : https://www.youtube.com/channel/UCtHp0WNe3OaSXAr1C_Oi0AQ/playlists
+by Sheldon Axler book
 
 ### Calculus : 2 weeks
  18.01: https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/
