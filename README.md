@@ -1,9 +1,9 @@
-# ml_curriculum
+# ml plus react curriculum
 Start: Aug 1
 
-## Mathematics: 
+1## Mathematics: 
 ### Linear Algebra: 14 days
-by Sheldon Axler book
+by edx
 
 ### Calculus : 2 weeks
  18.01: https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/
@@ -19,7 +19,7 @@ edx course https://www.edx.org/course/introduction-probability-science-mitx-6-04
 ### Math for CS: 1 week
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse
 
-## CS Basics:
+1## CS Basics:
 ### python: 10 days
 Automate the boring stuff: http://automatetheboringstuff.com/
 Codecademy: https://www.codecademy.com/learn/learn-python
@@ -29,6 +29,8 @@ edX UC SanDiego : https://www.edx.org/course/data-structures-fundamentals-uc-san
 
 ### Algorthms:1 week
 https://courses.csail.mit.edu/6.006/fall11/notes.shtml
+
+### CS50 react on edx
 
 ### Python for Data Science: 1 week
 edX : https://www.edx.org/course/python-for-data-science
